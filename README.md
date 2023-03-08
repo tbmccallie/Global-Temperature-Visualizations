@@ -1,2 +1,2 @@
 # Global-Temperature-Visualizations
-A small project to practice using the pandas and seaborn libraries for data analysis and visualization within a Jupyter notebook
+An analysis of the global temperature data using Python to practice data analysis with Python and, specifically, the pandas, numpy, seaborn, and matplotlib libraries
